@@ -3836,7 +3836,7 @@ public class Main {
             }
         }
     }
-//pasieka chuj.exe
+//
 
 //choinka
 import java.util.Scanner;
