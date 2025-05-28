@@ -43,11 +43,12 @@ public class Main {
     }
 }
 ff
+
 import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
 
-public class DuplicateFinder {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
